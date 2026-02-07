@@ -17,7 +17,7 @@ body {
     background-image: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0,0.85) 0%, #020202), url("media/oceansurface.jpg");
     background-size: cover;
     background-position: center;
-    box-shadow: 0 50px 90px black;
+    box-shadow: 0 50px 90px 40px black;
 }
 
 h1 {
@@ -143,6 +143,7 @@ h1 {
 #fish1 {
     display: none;
 }
+
 
 
 }
